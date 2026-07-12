@@ -1,2 +1,0 @@
-# Cyrptographic
-New cryptographic unhackable
